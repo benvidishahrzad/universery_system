@@ -1,0 +1,24 @@
+[
+           {
+                      "name": "dfgh",
+                      "family": "rtyuio",
+                      "birthdate": "1379-09-08 00:00:00",
+                      "id": "0023795336",
+                      "phonenumber": "09912770979",
+                      "user": "402103215",
+                      "password": "111111",
+                      "courses": [
+                                 "101"
+                      ]
+           },
+           {
+                      "name": "shhhh",
+                      "family": "beee",
+                      "birthdate": "1379-09-08 00:00:00",
+                      "id": "0023795336",
+                      "phonenumber": "09912770979",
+                      "user": "402103212",
+                      "password": "402103216",
+                      "courses": []
+           }
+]
